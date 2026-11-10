@@ -47,7 +47,7 @@ pennywise = "pennywise.cli:main"
 
 [dependency-groups]
 dev = [
-    "pytest>=8",
+    "pytest>=9.2.0",
     "hypothesis>=6",
     "ruff>=0.6",
 ]
