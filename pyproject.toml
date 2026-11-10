@@ -32,7 +32,7 @@ classifiers = [
 ]
 dependencies = [
     "sqlalchemy>=2.0",
-    "alembic>=1.13",
+    "alembic>=1.20.1",
     "pypdf>=6.21.2",
 ]
 
