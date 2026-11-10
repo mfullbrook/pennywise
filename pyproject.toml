@@ -31,7 +31,7 @@ classifiers = [
     "Topic :: Office/Business :: Financial :: Accounting",
 ]
 dependencies = [
-    "sqlalchemy>=2.0",
+    "sqlalchemy>=2.1.8",
     "alembic>=1.13",
     "pypdf>=6.21.2",
 ]
