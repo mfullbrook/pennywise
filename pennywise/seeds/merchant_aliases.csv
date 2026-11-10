@@ -1,0 +1,37 @@
+pattern,match_type,merchant
+AMZN,prefix,Amazon
+AMAZON,prefix,Amazon
+AMAZON PRIME,prefix,Amazon Prime
+AMZN PRIME,prefix,Amazon Prime
+PRIME VIDEO,prefix,Amazon Prime
+TESCO,prefix,Tesco
+TESCO PFS,prefix,Tesco Petrol
+TESCO PETROL,prefix,Tesco Petrol
+TESCO MOBILE,prefix,Tesco Mobile
+SAINSBURY,prefix,Sainsbury's
+SAINSBURYS PETROL,prefix,Sainsbury's Petrol
+SAINSBURY'S PETROL,prefix,Sainsbury's Petrol
+WAITROSE,prefix,Waitrose
+ASDA,prefix,Asda
+ASDA PETROL,prefix,Asda Petrol
+ASDA PFS,prefix,Asda Petrol
+ALDI,prefix,Aldi
+LIDL,prefix,Lidl
+MORRISONS,prefix,Morrisons
+MORRISONS PETROL,prefix,Morrisons Petrol
+MORRISONS PFS,prefix,Morrisons Petrol
+OCADO,prefix,Ocado
+M&S,prefix,Marks & Spencer
+MARKS & SPENCER,prefix,Marks & Spencer
+MARKS&SPENCER,prefix,Marks & Spencer
+TFL,prefix,Transport for London
+UBER,prefix,Uber
+UBER *EATS,prefix,Uber Eats
+UBER* EATS,prefix,Uber Eats
+UBER EATS,prefix,Uber Eats
+DELIVEROO,prefix,Deliveroo
+JUST EAT,prefix,Just Eat
+NETFLIX,prefix,Netflix
+SPOTIFY,prefix,Spotify
+APPLE.COM,prefix,Apple
+GOOGLE,prefix,Google

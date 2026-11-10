@@ -1,0 +1,36 @@
+# Financial data never belongs in this repo. Real statements and the database live in
+# ~/.pennywise; the only CSVs committed are synthetic test fixtures and the alias seeds.
+*.csv
+*.pdf
+*.db
+*.sqlite*
+!tests/fixtures/**
+!pennywise/seeds/*.csv
+
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+.gstack/
+
+# Local dashboard export contains private transaction data.
+dashboard/spending.html
+
+# Secrets (Endute API key).
+.env
+
+# OS and editor files.
+.DS_Store
+
+# Local Claude Code settings and agent worktrees.
+.claude/settings.local.json
+.claude/worktrees/
+
+# Build output.
+dist/
+build/
+*.egg-info
+
+# Private design notes (they quote real household figures).
+docs/designs/
